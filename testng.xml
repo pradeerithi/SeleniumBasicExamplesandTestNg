@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="testNg.AnnotationOrder"/>
+      <class name="testNg.ParallelTestingOnMethods"/>
+      <class name="testNg.ThreadCountExamples"/>
+      <class name="testNg.SkipATest"/>
+      <class name="testNg.GroupingExamples"/>
+      <class name="testNg.DependanciesManagement"/>
+      <class name="testNg.AssertionsExample"/>
+      <class name="testNg.DriveACar"/>
+      <class name="testNg.SampleTestExample"/>
+      <class name="testNg.SuiteExamples"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
